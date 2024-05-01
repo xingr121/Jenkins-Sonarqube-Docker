@@ -8,4 +8,4 @@
 
 <h2>Project Process:</h2>
 
-<img src="https://github.com/xingr121/portfolio/blob/main/projectScreenshot/cicd.png" alt="screenshots" width="600" height="400">  
+<img src="https://github.com/xingr121/portfolio/blob/main/projectScreenshot/cicd.png" alt="screenshots" width="800" height="300">  
